@@ -1,0 +1,4 @@
+The RavenDB ELMA provider is making use of the following OSS projects:
+
+* RavenDB 	http://ravendb.net/ 			released under GNU Affero General Public License
+* ELMAH 	http://code.google.com/p/elmah/ 	released under Apache License 2.0
